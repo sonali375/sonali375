@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Sonali Sahu.
-- 👀 I’m interested in Data Analytics and Business Analytics.
-- 🌱 I’m currently learning Python,SQL,ML,BI Tools,Python Libraries,MS-Excel.
-- 💞️ I’m currently working on different projects based in this domain.
+- 👀 I’m interested in Data Analytics and product management.
 - 📫 How to reach me : sahusonali375@gmail.com
